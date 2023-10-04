@@ -70,7 +70,7 @@ To get started with this project, follow these steps:
 - Install the required libraries:
 `pip install pandas xgboost streamlit`
 - Run the Streamlit app:
-`streamlit run app.py`
+`streamlit run model.py`
 - Open a web browser and go to the provided URL (usually http://localhost:8501) to use the IPL Player Price Prediction interface.
 
 ## Usage
